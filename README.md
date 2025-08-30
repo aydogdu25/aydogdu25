@@ -1,16 +1,21 @@
-## Hi there 👋
+# Merhaba, ben Kadir AYDOĞDU 👋
 
-<!--
-**aydogdu25/aydogdu25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Junior Full-Stack Developer | PHP | C# .NET | Java | C++  
 
-Here are some ideas to get you started:
+📍 Kocaeli, Türkiye  
+📧 Email: kadir@example.com  
+🔗 LinkedIn: [linkedin.com/in/kadir-aydogdu](https://linkedin.com/in/kadir-aydogdu)  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Yetenekler
+- **Frontend:** HTML, CSS, JavaScript  
+- **Backend:** PHP, C#, .NET, Java  
+- **Veritabanı:** MySQL, SQL Server  
+- **Diğer:** Git, GitHub, CodeIgniter  
+
+## 📂 Öne çıkan projeler
+- [Doctor Automation System](https://github.com/aydogdu25/doctor-automation-system) – PHP tabanlı doktor otomasyon sistemi.  
+- [Face Recognition Attendance](https://github.com/aydogdu25/face-recognition-attendance-emgucv) – C# ve EmguCV ile yüz tanıma sistemi.  
+- [Bus Ticketing CodeIgniter](https://github.com/aydogdu25/bus-ticketing-codeigniter) – Otobüs biletleme uygulaması.  
+
+## ⚡ Hakkımda
+Okulum bitti, Şubat ayında askere gideceğim ve o tarihe kadar remote çalışabileceğim pozisyonlar arıyorum.
