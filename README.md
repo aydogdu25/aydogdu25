@@ -13,9 +13,32 @@ Bilişim Sistemleri Mühendisliği lisans mezunu. Web ve masaüstü uygulama gel
 - Sistem Mühendisliği  
 - DevOps  
 
-**Beceriler:**  
+**Beceriler:**
 
-<img src="https://skillicons.dev/icons?i=c,cs,php,js,dotnet,bootstrap,mysql,git,github,docker,linux,ps" />
+**Programlama Dilleri:**
+<div>
+<img src="https://skillicons.dev/icons?i=c,cs,php,js" />
+</div>
+
+**Framework & Teknolojiler:**
+<div>
+<img src="https://skillicons.dev/icons?i=dotnet,bootstrap" />
+</div>
+
+**Veri Tabanı:**
+<div>
+<img src="https://skillicons.dev/icons?i=mysql,mssql" />
+</div>
+
+**Araçlar & Sistemler:**
+<div>
+<img src="https://skillicons.dev/icons?i=git,github,docker,linux" />
+</div>
+
+**Grafik & Tasarım:**
+<div>
+<img src="https://skillicons.dev/icons?i=ps" />
+</div>
 
 ---
 
