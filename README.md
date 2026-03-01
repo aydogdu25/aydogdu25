@@ -36,8 +36,6 @@ Bilişim Sistemleri Mühendisliği lisans mezunu. Web ve masaüstü uygulama gel
 
 ![SDLC](https://img.shields.io/badge/SDLC-Yazılım%20Geliştirme-blue?style=flat-square)
 ![OOP](https://img.shields.io/badge/OOP-Nesne%20Yönelimli-green?style=flat-square)
-![ImageProcessing](https://img.shields.io/badge/Görüntü%20İşleme-OpenCV-orange?style=flat-square)
-![Embedded](https://img.shields.io/badge/Gömülü%20Sistemler-IoT-red?style=flat-square)
 ![DevOps](https://img.shields.io/badge/DevOps-Süreçler-purple?style=flat-square)
 ![Web](https://img.shields.io/badge/Web-Geliştirme-teal?style=flat-square)
 ![Desktop](https://img.shields.io/badge/Masaüstü-Uygulama-indigo?style=flat-square)
