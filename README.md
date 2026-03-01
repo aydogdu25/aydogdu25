@@ -14,11 +14,8 @@ Bilişim Sistemleri Mühendisliği lisans mezunu. Web ve masaüstü uygulama gel
 - DevOps  
 
 **Beceriler:**  
-- **Programlama Dilleri:** C, C#, PHP, JavaScript  
-- **Framework & Teknolojiler:** ASP.NET, Bootstrap, Ajax
-- **Veri Tabanı:** MySQL, MS-SQL  
-- **Araçlar & Sistemler:** Git, GitHub, Docker, Linux  
-- **Grafik & Tasarım:** Adobe Photoshop  
+
+<img src="https://skillicons.dev/icons?i=c,cs,php,js,dotnet,bootstrap,mysql,git,github,docker,linux,ps" />
 
 ---
 
