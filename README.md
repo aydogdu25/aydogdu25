@@ -5,24 +5,6 @@ Bilişim Sistemleri Mühendisliği lisans mezunu. Web ve masaüstü uygulama gel
 
 ---
 
-## 📊 GitHub İstatistikleri
-
-<div align="center">
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=aydogdu25&show_icons=true&theme=dark&hide_border=true&count_private=true" />
-&nbsp;&nbsp;
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aydogdu25&layout=compact&theme=dark&hide_border=true&langs_count=8" />
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=aydogdu25&theme=github-compact&hide_border=true&area=true" />
-
-</div>
-
----
-
 ## 🚀 İlgi Alanları & Yetenekler
 
 **İlgi Alanları:**
