@@ -1,5 +1,12 @@
 # Kadir AYDOĞDU 
+<div align="center">
+
 ![Visitor Count](https://komarev.com/ghpvc/?username=aydogdu25&color=blue)
+[![Email](https://img.shields.io/badge/Email-kaydogdu4125%40gmail.com-red?style=flat-square&logo=gmail)](mailto:kaydogdu4125@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-aydogdu25-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/aydogdu25)
+[![GitHub](https://img.shields.io/badge/GitHub-aydogdu25-black?style=flat-square&logo=github)](https://github.com/aydogdu25)
+
+</div>
 
 Bilişim Sistemleri Mühendisliği lisans mezunu. Web ve masaüstü uygulama geliştirme, nesne yönelimli programlama ve veritabanı yönetimi alanlarında deneyim sahibiyim. Farklı projelerde yazılım geliştirme sürecinin tasarım, uygulama ve bakım aşamalarında aktif rol aldım. Docker, Linux ve Git gibi modern araçlara hakimim. Hedefim; edindiğim teknik becerileri geliştirmeye devam ederek, yenilikçi yazılım projelerinde aktif rol almak.
 
