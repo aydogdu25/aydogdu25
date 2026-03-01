@@ -15,30 +15,7 @@ Bilişim Sistemleri Mühendisliği lisans mezunu. Web ve masaüstü uygulama gel
 
 **Beceriler:**
 
-**Programlama Dilleri:**
-<div>
-<img src="https://skillicons.dev/icons?i=c,cs,php,js" />
-</div>
-
-**Framework & Teknolojiler:**
-<div>
-<img src="https://skillicons.dev/icons?i=dotnet,bootstrap" />
-</div>
-
-**Veri Tabanı:**
-<div>
-<img src="https://skillicons.dev/icons?i=mysql,mssql" />
-</div>
-
-**Araçlar & Sistemler:**
-<div>
-<img src="https://skillicons.dev/icons?i=git,github,docker,linux" />
-</div>
-
-**Grafik & Tasarım:**
-<div>
-<img src="https://skillicons.dev/icons?i=ps" />
-</div>
+<img src="https://skillicons.dev/icons?i=c,cs,php,js,bash,dotnet,html,css,bootstrap,mysql,git,github,docker,postman,linux,ps,vscode,visualstudio,eclipse" />
 
 ---
 
