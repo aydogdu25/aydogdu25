@@ -9,14 +9,15 @@ Bilişim Sistemleri Mühendisliği lisans mezunu. Web ve masaüstü uygulama gel
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=aydogdu25&show_icons=true&theme=dark&hide_border=true&count_private=true&cache_seconds=1800" height="165" alt="GitHub Stats"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aydogdu25&layout=compact&theme=dark&hide_border=true&cache_seconds=1800" height="165" alt="Top Languages"/>
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=aydogdu25&show_icons=true&theme=dark&hide_border=true&count_private=true" />
+&nbsp;&nbsp;
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aydogdu25&layout=compact&theme=dark&hide_border=true&langs_count=8" />
 
 </div>
 
 <div align="center">
 
-![GitHub Streak](https://streak-stats.demolab.com?user=aydogdu25&theme=dark&hide_border=true&locale=tr)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=aydogdu25&theme=github-compact&hide_border=true&area=true" />
 
 </div>
 
