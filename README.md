@@ -40,28 +40,14 @@ Bilişim Sistemleri Mühendisliği lisans mezunu. Web ve masaüstü uygulama gel
 
 ## 📂 Öne Çıkan Projeler
 
-<div align="center">
-
-<a href="https://github.com/aydogdu25/doctor-automation-system">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=aydogdu25&repo=doctor-automation-system&theme=dark&hide_border=true&cache_seconds=1800" />
-</a>
-<a href="https://github.com/aydogdu25/face-recognition-attendance-emgucv">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=aydogdu25&repo=face-recognition-attendance-emgucv&theme=dark&hide_border=true&cache_seconds=1800" />
-</a>
-<a href="https://github.com/aydogdu25/bus-ticketing-codeigniter">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=aydogdu25&repo=bus-ticketing-codeigniter&theme=dark&hide_border=true&cache_seconds=1800" />
-</a>
-<a href="https://github.com/aydogdu25/stajnet-internship-automation">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=aydogdu25&repo=stajnet-internship-automation&theme=dark&hide_border=true&cache_seconds=1800" />
-</a>
-<a href="https://github.com/aydogdu25/sidekick-navigation">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=aydogdu25&repo=sidekick-navigation&theme=dark&hide_border=true&cache_seconds=1800" />
-</a>
-<a href="https://github.com/aydogdu25/smart-radar-system">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=aydogdu25&repo=smart-radar-system&theme=dark&hide_border=true&cache_seconds=1800" />
-</a>
-
-</div>
+| Proje | Açıklama |
+|---|---|
+| [Doctor Automation System](https://github.com/aydogdu25/doctor-automation-system) | PHP tabanlı doktor otomasyon sistemi |
+| [Face Recognition Attendance](https://github.com/aydogdu25/face-recognition-attendance-emgucv) | C# ve EmguCV ile yüz tanıma tabanlı yoklama sistemi |
+| [Bus Ticketing CodeIgniter](https://github.com/aydogdu25/bus-ticketing-codeigniter) | CodeIgniter ile otobüs bilet satış uygulaması |
+| [Stajnet Internship Automation](https://github.com/aydogdu25/stajnet-internship-automation) | ASP.NET MVC tabanlı staj otomasyon projesi |
+| [Sidekick Navigation](https://github.com/aydogdu25/sidekick-navigation) | Java ile görme engelliler için sesli navigasyon |
+| [Smart Radar System](https://github.com/aydogdu25/smart-radar-system) | Arduino ve bulut tabanlı radar sistemi |
 
 ---
 
