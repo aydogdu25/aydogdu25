@@ -1,11 +1,11 @@
-# Merhaba, ben Kadir AYDOĞDU 👋
+# Kadir AYDOĞDU 
 ![Visitor Count](https://komarev.com/ghpvc/?username=aydogdu25&color=blue)
 
 Bilişim Sistemleri Mühendisliği lisans mezunu. Web ve masaüstü uygulama geliştirme, nesne yönelimli programlama ve veritabanı yönetimi alanlarında deneyim sahibiyim. Farklı projelerde yazılım geliştirme sürecinin tasarım, uygulama ve bakım aşamalarında aktif rol aldım. Docker, Linux ve Git gibi modern araçlara hakimim. Hedefim; edindiğim teknik becerileri geliştirmeye devam ederek, yenilikçi yazılım projelerinde aktif rol almak.
 
 ---
 
-## 🚀 İlgi Alanları & Yetenekler
+## İlgi Alanları & Yetenekler
 
 **İlgi Alanları:**
 
