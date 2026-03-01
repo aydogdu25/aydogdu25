@@ -18,9 +18,13 @@ Bilişim Sistemleri Mühendisliği lisans mezunu. Web ve masaüstü uygulama gel
 
 ![SDLC](https://img.shields.io/badge/SDLC-Yazılım%20Geliştirme-blue?style=flat-square)
 ![OOP](https://img.shields.io/badge/OOP-Nesne%20Yönelimli-green?style=flat-square)
-![Algorithm](https://img.shields.io/badge/Algoritma-Geliştirme-orange?style=flat-square)
-![DevOps](https://img.shields.io/badge/DevOps-Süreçler-red?style=flat-square)
-![System](https://img.shields.io/badge/Sistem-Mühendisliği-purple?style=flat-square)
+![ImageProcessing](https://img.shields.io/badge/Görüntü%20İşleme-OpenCV-orange?style=flat-square)
+![Embedded](https://img.shields.io/badge/Gömülü%20Sistemler-IoT-red?style=flat-square)
+![DevOps](https://img.shields.io/badge/DevOps-Süreçler-purple?style=flat-square)
+![Web](https://img.shields.io/badge/Web-Geliştirme-teal?style=flat-square)
+![Desktop](https://img.shields.io/badge/Masaüstü-Uygulama-indigo?style=flat-square)
+![Database](https://img.shields.io/badge/Veritabanı-Yönetimi-darkred?style=flat-square)
+![Algorithm](https://img.shields.io/badge/Algoritma-Veri%20Yapıları-yellow?style=flat-square)
 
 **Beceriler:**
 
@@ -40,12 +44,3 @@ Bilişim Sistemleri Mühendisliği lisans mezunu. Web ve masaüstü uygulama gel
 | [Smart Radar System](https://github.com/aydogdu25/smart-radar-system) | Arduino ve bulut tabanlı radar sistemi |
 
 ---
-
-## 📫 İletişim
-
-<div align="center">
-
-[![Email](https://img.shields.io/badge/Email-kaydogdu4125%40gmail.com-red?style=for-the-badge&logo=gmail)](mailto:kaydogdu4125@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-aydogdu25-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/aydogdu25)
-
-</div>
