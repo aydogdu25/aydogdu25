@@ -9,8 +9,14 @@ Bilişim Sistemleri Mühendisliği lisans mezunu. Web ve masaüstü uygulama gel
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aydogdu25&show_icons=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aydogdu25&layout=compact&theme=dark)
+<img src="https://github-readme-stats.vercel.app/api?username=aydogdu25&show_icons=true&theme=dark&hide_border=true&count_private=true&cache_seconds=1800" height="165" alt="GitHub Stats"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aydogdu25&layout=compact&theme=dark&hide_border=true&cache_seconds=1800" height="165" alt="Top Languages"/>
+
+</div>
+
+<div align="center">
+
+![GitHub Streak](https://streak-stats.demolab.com?user=aydogdu25&theme=dark&hide_border=true&locale=tr)
 
 </div>
 
@@ -36,12 +42,24 @@ Bilişim Sistemleri Mühendisliği lisans mezunu. Web ve masaüstü uygulama gel
 
 <div align="center">
 
-[![Doctor Automation](https://github-readme-stats.vercel.app/api/pin/?username=aydogdu25&repo=doctor-automation-system&theme=dark)](https://github.com/aydogdu25/doctor-automation-system)
-[![Face Recognition](https://github-readme-stats.vercel.app/api/pin/?username=aydogdu25&repo=face-recognition-attendance-emgucv&theme=dark)](https://github.com/aydogdu25/face-recognition-attendance-emgucv)
-[![Bus Ticketing](https://github-readme-stats.vercel.app/api/pin/?username=aydogdu25&repo=bus-ticketing-codeigniter&theme=dark)](https://github.com/aydogdu25/bus-ticketing-codeigniter)
-[![Stajnet](https://github-readme-stats.vercel.app/api/pin/?username=aydogdu25&repo=stajnet-internship-automation&theme=dark)](https://github.com/aydogdu25/stajnet-internship-automation)
-[![Sidekick Navigation](https://github-readme-stats.vercel.app/api/pin/?username=aydogdu25&repo=sidekick-navigation&theme=dark)](https://github.com/aydogdu25/sidekick-navigation)
-[![Smart Radar](https://github-readme-stats.vercel.app/api/pin/?username=aydogdu25&repo=smart-radar-system&theme=dark)](https://github.com/aydogdu25/smart-radar-system)
+<a href="https://github.com/aydogdu25/doctor-automation-system">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=aydogdu25&repo=doctor-automation-system&theme=dark&hide_border=true&cache_seconds=1800" />
+</a>
+<a href="https://github.com/aydogdu25/face-recognition-attendance-emgucv">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=aydogdu25&repo=face-recognition-attendance-emgucv&theme=dark&hide_border=true&cache_seconds=1800" />
+</a>
+<a href="https://github.com/aydogdu25/bus-ticketing-codeigniter">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=aydogdu25&repo=bus-ticketing-codeigniter&theme=dark&hide_border=true&cache_seconds=1800" />
+</a>
+<a href="https://github.com/aydogdu25/stajnet-internship-automation">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=aydogdu25&repo=stajnet-internship-automation&theme=dark&hide_border=true&cache_seconds=1800" />
+</a>
+<a href="https://github.com/aydogdu25/sidekick-navigation">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=aydogdu25&repo=sidekick-navigation&theme=dark&hide_border=true&cache_seconds=1800" />
+</a>
+<a href="https://github.com/aydogdu25/smart-radar-system">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=aydogdu25&repo=smart-radar-system&theme=dark&hide_border=true&cache_seconds=1800" />
+</a>
 
 </div>
 
