@@ -27,7 +27,7 @@ Bilişim Sistemleri Mühendisliği lisans mezunu. Web ve masaüstü uygulama gel
 
 **Tech Stack:**
 
-<img src="https://skillicons.dev/icons?i=c,cs,cpp,php,js,bash,dotnet,html,css,bootstrap,mysql,git,github,docker,postman,linux,ps,vscode,visualstudio,eclipse,stackoverflow,windows,vim,arduino,ubuntu,debian" />
+<img src="https://skillicons.dev/icons?i=c,cs,js,bash,dotnet,html,css,bootstrap,mysql,git,github,docker,postman,linux,ps,vscode,visualstudio,eclipse,stackoverflow,windows,vim,arduino,ubuntu,debian" />
 
 ---
 
