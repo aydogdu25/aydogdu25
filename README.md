@@ -35,11 +35,11 @@ Bilişim Sistemleri Mühendisliği lisans mezunu. Web ve masaüstü uygulama gel
 
 | Proje | Açıklama |
 |---|---|
-| [Doctor Automation System](https://github.com/aydogdu25/doctor-automation-system) | PHP tabanlı doktor otomasyon sistemi |
+| [Lib Reserve](https://github.com/aydogdu25/lib-reserve) | Dağıtık mimari ile kitap rezervasyon sistemi |
 | [Face Recognition Attendance](https://github.com/aydogdu25/face-recognition-attendance-emgucv) | C# ve EmguCV ile yüz tanıma tabanlı yoklama sistemi |
-| [Bus Ticketing CodeIgniter](https://github.com/aydogdu25/bus-ticketing-codeigniter) | CodeIgniter ile otobüs bilet satış uygulaması |
+| [Mvc Api Integration](https://github.com/aydogdu25/mvc-api-integration) | Dağıtık Web Uygulaması |
 | [Stajnet Internship Automation](https://github.com/aydogdu25/stajnet-internship-automation) | ASP.NET MVC tabanlı staj otomasyon projesi |
-| [Sidekick Navigation](https://github.com/aydogdu25/sidekick-navigation) | Java ile görme engelliler için sesli navigasyon |
+| [Sidekick Navigation](https://github.com/aydogdu25/sidekick-navigation) | Java ile görme engelliler için sesli navigasyon uygulaması|
 | [Smart Radar System](https://github.com/aydogdu25/smart-radar-system) | Arduino ve bulut tabanlı radar sistemi |
 
 ---
